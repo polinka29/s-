@@ -1,0 +1,15 @@
+C:\IT\c#\dz06.08\Zadanie1\obj\Debug\net6.0\Zadanie1.csproj.AssemblyReference.cache
+C:\IT\c#\dz06.08\Zadanie1\obj\Debug\net6.0\Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT\c#\dz06.08\Zadanie1\obj\Debug\net6.0\Zadanie1.AssemblyInfoInputs.cache
+C:\IT\c#\dz06.08\Zadanie1\obj\Debug\net6.0\Zadanie1.AssemblyInfo.cs
+C:\IT\c#\dz06.08\Zadanie1\obj\Debug\net6.0\Zadanie1.csproj.CoreCompileInputs.cache
+C:\IT\c#\dz06.08\Zadanie1\bin\Debug\net6.0\Zadanie1.exe
+C:\IT\c#\dz06.08\Zadanie1\bin\Debug\net6.0\Zadanie1.deps.json
+C:\IT\c#\dz06.08\Zadanie1\bin\Debug\net6.0\Zadanie1.runtimeconfig.json
+C:\IT\c#\dz06.08\Zadanie1\bin\Debug\net6.0\Zadanie1.dll
+C:\IT\c#\dz06.08\Zadanie1\bin\Debug\net6.0\Zadanie1.pdb
+C:\IT\c#\dz06.08\Zadanie1\obj\Debug\net6.0\Zadanie1.dll
+C:\IT\c#\dz06.08\Zadanie1\obj\Debug\net6.0\refint\Zadanie1.dll
+C:\IT\c#\dz06.08\Zadanie1\obj\Debug\net6.0\Zadanie1.pdb
+C:\IT\c#\dz06.08\Zadanie1\obj\Debug\net6.0\Zadanie1.genruntimeconfig.cache
+C:\IT\c#\dz06.08\Zadanie1\obj\Debug\net6.0\ref\Zadanie1.dll
